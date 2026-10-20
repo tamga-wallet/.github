@@ -18,7 +18,7 @@ An EU-compatible digital identity wallet — and the first wallet listed on [Tam
 
 ---
 
-| | |
+| Feature | What it means |
 |---|---|
 | **Your documents, on your phone** | Identity and institution credentials stay on the device, protected by its secure hardware |
 | **Share only what's asked** | Selective disclosure and yes/no proofs — prove you are over 18 without revealing your date of birth |
